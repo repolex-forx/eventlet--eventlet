@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/eventlet/eventlet/commit/d0111a51ce7e9f035bd3a793219d0ba9a07cdba3",
       "git:hexsha": "d0111a51ce7e9f035bd3a793219d0ba9a07cdba3",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T22:09:47.545207+00:00"
     },
     {
       "@id": "https://repolex.ai/r/eventlet/eventlet/commit/e1afe7b387a2452c47a98b596c9451f9d95f7bdc",
